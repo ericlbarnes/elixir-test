@@ -1,0 +1,17 @@
+{
+  "name": "elixir-test",
+  "description": "Compile with gulp-stylus",
+  "version": "1.0.0",
+  "author": "Eric Barnes <eric@ericlbarnes.com>",
+  "bugs": "https://github.com/ericbarnes/elixir-test",
+  "homepage": "https://github.com/ericbarnes/elixir-test",
+  "dependencies": {
+    "gulp-stylus": "^1.3.3"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/ericbarnes/elixir-test.git",
+  "keywords": [
+    "laravel", "elixir"
+  ]
+}
